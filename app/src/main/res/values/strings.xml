@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FlickrSearch</string>
+    <string name="clear_input_field_content_description">Clear results</string>
+    <string name="search_content_description">Search</string>
+    <string name="input_field_hint">What’s your vibe today?</string>
+    <string name="search_header">Search</string>
+    <string name="search_screen_idle">Knock knock! Start searching…</string>
+    <string name="search_screen_empty">Your search came up empty – time to remix and try again!</string>
+    <string name="search_screen_error">Looks like the system hit a flat note — retry!</string>
+    <string name="title">Title: %1$s</string>
+    <string name="author">Author: %1$s</string>
+    <string name="height">Height: %1$s</string>
+    <string name="width">Width: %1$s</string>
+    <string name="back_content_description">Back</string>
+    <string name="share">share_content_description</string>
+</resources>
